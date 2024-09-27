@@ -1,5 +1,5 @@
 {
-  "name": "vue3-style-ie11-vue3",
+  "name": "vue3-styled-ie11-vue2",
   "version": "0.1.0",
   "private": false,
   "description": "使用vue3 setup标签写法的,专为ie11准备的vue2项目",
