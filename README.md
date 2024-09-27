@@ -11,7 +11,7 @@
 ##### 请我炫个饼
 <p>
   <img src="https://ooo.0x0.ooo/2023/03/22/9tzCN.jpg" width=250/>
-  <img src="https://ooo.0x0.ooo/2024/09/27/O4Ek2s.jpg" width=240/>
+  <img src="https://ooo.0x0.ooo/2024/09/27/O4Ek2s.jpg" width=230/>
 </p>
 下次一定?给个Star也行啊
 
