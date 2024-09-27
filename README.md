@@ -9,7 +9,7 @@
 
 
 ##### 请我炫个饼
-![1](https://ooo.0x0.ooo/2023/03/22/9tzCN.jpg)
-![2](https://ooo.0x0.ooo/2024/09/27/O4Ek2s.jpg)
+![1](https://ooo.0x0.ooo/2023/03/22/9tzCN.jpg =300x200)
+![2](https://ooo.0x0.ooo/2024/09/27/O4Ek2s.jpg =300x200)
 下次一定?给个Star也行啊
 
